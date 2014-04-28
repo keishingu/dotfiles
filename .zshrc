@@ -18,5 +18,5 @@ setopt print_eight_bit
 
 PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
 
-alias subl='ls -G'
+alias ls='ls -G'
 alias subl='/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl'
