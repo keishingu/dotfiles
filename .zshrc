@@ -52,7 +52,7 @@ source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
-export PATH="/Users/kei/.nvm/v0.10.25/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/usr/local/share/python:/Users/kei/lib:/Users/kei/.rvm/bin:/Users/kei/lib"
+export PATH="/Applications/Android\ Studio.app/sdk/platform-tools:/Users/kei/.nvm/v0.10.25/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/usr/local/share/python:/Users/kei/lib:/Users/kei/.rvm/bin:/Users/kei/lib"
 # export MANPATH="/usr/local/man:$MANPATH"
 
 # You may need to manually set your language environment
@@ -79,3 +79,5 @@ export PATH="/Users/kei/.nvm/v0.10.25/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/loc
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
+alias chrome="open -a Google\ Chrome"

@@ -7,7 +7,7 @@ alias ll='ls -altrG'
 alias tw='tw -yes'
 alias hubb='hub browse --'
 
-PATH=$PATH:$HOME/.rvm/bin
+PATH=$PATH:$HOME/.rvm/bin:/Applications/Android\ Studio.app/sdk/platform-tools
 export TERM='xterm-256color'
 export PS1='[\w]$ '
 
