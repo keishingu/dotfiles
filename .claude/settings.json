@@ -1,0 +1,7 @@
+{
+  "alwaysApproveFor": [
+    "read_file",
+    "list_files",
+    "view_source_code_definitions_and_references"
+  ]
+}
